@@ -1,0 +1,4 @@
+baseURL = "https://lukewalls.com/"
+languageCode = "en-us"
+title = "Luke Walls"
+theme = "ghostwriter"
